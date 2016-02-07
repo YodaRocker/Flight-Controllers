@@ -25,10 +25,10 @@ The F3 Quad Brushed V1 is an experimental flight controller designed to pilot Qu
 
 #### Build Files and Resources:
 
-Schematic, board design, and part list ➜ [F3 Quad Brushed V1 ZIP](F3-Quad-Brushed-SIDE-USB.zip?raw=true "F3 Quad Brushed V1 ZIP") ➜ [F3 Quad Brushed V1 JPMR ZIP](F3-Quad-Brushed-SIDE-USB-JMPR.zip?raw=true "F3 Quad Brushed V1 JPMR ZIP")�
+Schematic, board design, and part list &rarr [F3 Quad Brushed V1 ZIP](F3-Quad-Brushed-SIDE-USB.zip?raw=true "F3 Quad Brushed V1 ZIP") &rarr [F3 Quad Brushed V1 JPMR ZIP](F3-Quad-Brushed-SIDE-USB-JMPR.zip?raw=true "F3 Quad Brushed V1 JPMR ZIP")�
 
-This bare board can be made at ➜ [OSHpark] (https://oshpark.com/shared_projects/QfO5C1ff "OSHPark F3 Quad Brushed V1")
+This bare board can be made at &rarr [OSHpark] (https://oshpark.com/shared_projects/QfO5C1ff "OSHPark F3 Quad Brushed V1")
 
-Stencils can be made at ➜ [OSHStencils] (https://www.oshstencils.com/ "OSHStencils")
+Stencils can be made at &rarr [OSHStencils] (https://www.oshstencils.com/ "OSHStencils")
 
 _**THESE FILES ARE BEING PROVIDED ''AS IS'' WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES.**_
